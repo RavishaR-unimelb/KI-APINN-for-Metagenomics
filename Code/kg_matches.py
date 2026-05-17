@@ -48,9 +48,9 @@ dataname = "M3_feces_L5"
 folder = "M3_F4_final"
 num = 25
 timesteps = 332
-df_edges = pd.read_csv("/data/projects/punim0512/ravisha_projects/Microbial PI-GNN/MetagenomicKG/KG_edges.tsv", sep="\t")
-df_nodes = pd.read_csv("/data/projects/punim0512/ravisha_projects/Microbial PI-GNN/MetagenomicKG/KG_nodes.tsv", sep='\t')
-df_otus = pd.read_csv(f"/data/projects/punim0512/ravisha_projects/Microbial PI-GNN/Results/{folder}/{dataname}_AnchorGNN_{num}_{timesteps}_sent_True_temp_True_ta_edge_importances.csv", sep=',')
+df_edges = pd.read_csv("MetagenomicKG/KG_edges.tsv", sep="\t")
+df_nodes = pd.read_csv("MetagenomicKG/KG_nodes.tsv", sep='\t')
+df_otus = pd.read_csv(f"Results/{folder}/{dataname}_AnchorGNN_{num}_{timesteps}_sent_True_temp_True_ta_edge_importances.csv", sep=',')
 
 #num_edges = int(num*num*0.2)
 num_edges = 50
@@ -133,6 +133,6 @@ cooccurrence_df = pd.DataFrame(
 ).drop_duplicates()
 
 print(cooccurrence_df)
-cooccurrence_df.to_csv(f"/data/projects/punim0512/ravisha_projects/Microbial PI-GNN/Results/{folder}/{dataname}_{num}_kg_top{num_edges}.csv")
+cooccurrence_df.to_csv(f"Results/{folder}/{dataname}_{num}_kg_top{num_edges}.csv")
 
 
