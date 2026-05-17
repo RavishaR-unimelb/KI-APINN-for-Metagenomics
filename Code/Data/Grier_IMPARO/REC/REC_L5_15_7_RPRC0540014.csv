@@ -1,0 +1,16 @@
+,1,2,3,4,5,6,7
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__[Tissierellaceae],0.09686525,0.413529232,0.121713764,0.36235147,0.234631148,0.518989795,0.000226729
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae,0.575545981,0.008264463,0.08052158,0.140838024,0.091598361,0.28833484,0.000780955
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae,0.178428168,0.02402816,0.126564038,0.354346467,0.002663934,0.0,0.001007684
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae,0.0,0.260483624,0.375790806,0.000625391,0.34579918,0.001905439,0.001007684
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae,0.000891398,0.02402816,0.002003374,0.026766729,0.001536885,3.23e-05,0.0
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae,0.012479572,0.126568717,0.150815408,0.053283302,0.137909836,0.003358739,0.000302305
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae,0.080522953,0.001224365,0.000948967,0.049280801,0.00102459,3.23e-05,0.241415795
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae,0.000297133,0.079583716,0.064635175,0.0,0.045696721,0.000193773,2.52e-05
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae,0.0,0.0,3.51e-05,0.0,0.0,3.23e-05,0.511097116
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Peptostreptococcaceae,0.0,0.0,0.000878673,0.0,0.001946721,0.098566077,2.52e-05
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Corynebacteriaceae,0.0,0.0,0.000246028,0.000375235,0.0,3.23e-05,0.225771508
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Veillonellaceae,0.038775813,0.012855831,0.001265289,0.007879925,0.000512295,0.031100633,0.0
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|Other,0.0,0.0087236,0.029347673,0.0,0.024282787,3.23e-05,2.52e-05
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae,0.0,0.012855831,0.00716997,0.000250156,0.051844262,0.002099212,0.000100768
+k__Bacteria|p__Actinobacteria|c__Coriobacteriia|o__Coriobacteriales|f__Coriobacteriaceae,0.015896598,0.001071319,0.000878673,0.001125704,0.005122951,0.001485596,0.0

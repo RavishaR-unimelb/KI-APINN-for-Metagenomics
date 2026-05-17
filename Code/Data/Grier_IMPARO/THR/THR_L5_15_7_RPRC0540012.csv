@@ -1,0 +1,16 @@
+,1,2,3,4,5,6,7
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae,0.76162102,0.231877832,0.994090991,0.000578949,0.754175648,0.80238442,0.947587089
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae,0.0,1.95e-05,9.06e-05,0.240534177,0.00093503,2.47e-05,0.015599081
+k__Bacteria|p__Firmicutes|c__Bacilli|Other|Other,0.006439546,0.0,0.000308138,0.585182755,0.013956556,0.001419298,0.00088268
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae,0.001140058,0.604749258,0.0,0.0,0.000570861,1.23e-05,0.0
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Veillonellaceae,0.082965932,0.159896891,5.44e-05,0.0,0.070353638,0.058450374,3.04e-05
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Actinomycetaceae,0.016263638,0.0,1.81e-05,0.0,0.001082667,7.41e-05,0.029006681
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Gemellales|f__Gemellaceae,0.057902472,0.000175754,0.0,0.0,0.07454651,0.040986844,0.0
+k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Rhizobiales|f__Bradyrhizobiaceae,0.0,1.95e-05,0.001395686,0.04668262,0.0,0.0,0.000760931
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__[Paraprevotellaceae],0.053912269,0.0,0.0,0.0,0.0,0.016217017,0.0
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae,8.91e-06,0.0,0.0,0.0,0.0,0.0,0.000791368
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Carnobacteriaceae,0.003571588,0.000234338,0.0,0.0,0.006043248,0.016463851,0.0
+k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Rhizobiales|f__Methylobacteriaceae,0.0,0.0,0.001196302,0.049191401,0.0,0.0,0.000608745
+k__Bacteria|p__Fusobacteria|c__Fusobacteriia|o__Fusobacteriales|f__Leptotrichiaceae,0.001656647,3.91e-05,0.0,0.0,0.000757867,0.050489966,0.0
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Micrococcaceae,0.000552216,0.002480081,0.001921334,0.0,0.000777551,0.000382593,0.002800225
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae,0.004854153,1.95e-05,0.0,0.0,0.040029134,0.001764866,3.04e-05

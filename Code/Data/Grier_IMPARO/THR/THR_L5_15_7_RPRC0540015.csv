@@ -1,0 +1,16 @@
+,1,2,3,4,5,6,7
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae,0.001509785,0.79069622,0.829542,4.44e-05,0.002927501,0.822316461,0.898619186
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae,0.057110505,0.0,0.0,0.993826521,0.02111245,1.3e-05,0.0
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Veillonellaceae,0.0,0.133648045,0.104696524,0.0,0.00027553,0.072663373,0.004983389
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae,0.118227745,0.0,0.0,0.0,0.357843981,0.0,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae,0.360838511,0.0,0.0,0.0,0.198760117,1.3e-05,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|Other|Other,0.387695256,0.000531466,0.000607964,0.001569278,0.40637162,0.000544683,0.001470792
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae,0.0,0.011723513,0.010842031,0.0,0.000137765,0.004772465,6.92e-05
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pasteurellales|f__Pasteurellaceae,0.0098136,0.0,0.000354646,0.0,0.0,9.08e-05,0.000103821
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae,0.007636026,0.0,0.0,0.0,0.0,0.0,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Carnobacteriaceae,0.0,0.019539188,0.012463269,0.0,0.000241088,0.025392626,0.051200858
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Actinomycetaceae,0.0,0.014537156,0.003267808,0.0,3.44e-05,0.000661401,0.000138427
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Gemellales|f__Gemellaceae,0.0,0.005283396,0.021658729,0.0,3.44e-05,0.022228274,0.016040282
+k__Bacteria|p__Fusobacteria|c__Fusobacteriia|o__Fusobacteriales|f__Leptotrichiaceae,0.0,0.000250102,0.000329314,0.0,0.0,0.030229934,0.000830565
+k__Bacteria|p__Proteobacteria|c__Epsilonproteobacteria|o__Campylobacterales|f__Campylobacteraceae,0.0,0.002876168,0.003217145,0.0,0.000103324,0.000804057,0.000294158
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Porphyromonadaceae,0.0,0.000656517,0.001266592,0.0,0.0,0.014109896,0.022511766

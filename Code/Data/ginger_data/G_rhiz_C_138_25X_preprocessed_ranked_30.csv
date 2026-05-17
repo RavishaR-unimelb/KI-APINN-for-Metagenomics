@@ -1,0 +1,31 @@
+OTU ID,1,2,3,4,5,6,7
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae,885.0,1230.5,558.25,539.75,446.5,190.0,142.5
+d__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Cytophagales; f__Microscillaceae,557.8333333333333,739.25,704.0,1047.0,410.75,125.5,139.0
+d__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae,599.8333333333334,806.5,510.25,726.25,456.0,259.0,180.25
+d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae,432.49999999999994,664.5,1198.75,647.0,416.0,125.25,33.25
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Betaproteobacteriales; f__Burkholderiaceae,462.8333333333333,633.0,527.0,693.25,489.0,126.0,81.25
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Betaproteobacteriales; f__Nitrosomonadaceae,263.3333333333333,444.25,685.5,662.0,533.0,137.0,209.0
+d__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__Gemmatimonadales; f__Gemmatimonadaceae,340.5,677.25,536.25,495.0,416.5,69.75,127.0
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae,931.3333333333334,771.25,336.0,200.25,60.0,110.0,45.25
+d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__uncultured bacterium,198.66666666666666,513.5,341.5,500.0,368.0,142.5,94.0
+d__Bacteria; p__Planctomycetes; c__Planctomycetacia; o__Pirellulales; f__Pirellulaceae,348.1666666666667,454.25,378.25,401.75,270.0,54.0,69.25
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae,298.8333333333333,453.5,380.0,311.25,230.0,114.5,115.0
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae,323.1666666666667,377.25,746.0,170.25,118.75,39.0,27.0
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Gammaproteobacteria Incertae Sedis; f__Unknown Family,242.33333333333334,329.75,296.25,320.25,287.0,95.5,93.75
+d__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Propionibacteriales; f__Nocardioidaceae,321.1666666666667,486.5,276.25,306.0,121.75,72.5,74.5
+d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Myxococcales; f__BIrii41,356.16666666666663,391.25,284.75,387.75,121.0,32.0,7.0
+d__Bacteria; p__Chloroflexi; c__Chloroflexia; o__Chloroflexales; f__Roseiflexaceae,161.5,193.25,214.0,422.0,421.0,77.5,66.0
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae,265.1666666666667,371.5,267.5,250.25,190.0,74.75,82.25
+d__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Micromonosporales; f__Micromonosporaceae,293.1666666666667,287.25,221.0,403.25,186.5,41.25,12.5
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Dongiales; f__Dongiaceae,145.33333333333334,210.5,220.75,321.5,284.25,129.5,123.0
+d__Bacteria; p__Verrucomicrobia; c__Verrucomicrobiae; o__Pedosphaerales; f__Pedosphaeraceae,116.33333333333333,229.5,273.25,390.25,268.5,61.75,75.75
+d__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__Phycisphaerales; f__Phycisphaeraceae,158.83333333333334,260.0,207.25,288.5,314.0,52.0,80.5
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Rhizobiaceae,257.0,278.75,158.25,188.0,134.75,124.0,61.5
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Rhodanobacteraceae,286.5,450.0,145.0,90.75,40.75,74.25,33.75
+d__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae,330.16666666666663,317.5,116.75,92.0,107.25,64.75,92.0
+d__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__Tepidisphaerales; f__WD2101 soil group,117.33333333333333,190.5,150.5,240.75,264.75,27.25,125.0
+d__Bacteria; p__Acidobacteria; c__Thermoanaerobaculia; o__Thermoanaerobaculales; f__Thermoanaerobaculaceae,72.0,102.75,194.75,439.75,225.0,50.5,25.0
+d__Bacteria; p__Patescibacteria; c__Parcubacteria; o__Candidatus Kaiserbacteria; f__uncultured bacterium,148.16666666666666,315.25,143.5,222.5,215.75,15.0,38.5
+d__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Solibacterales; f__Solibacteraceae (Subgroup 3),131.83333333333334,196.75,163.75,227.75,210.5,77.75,58.75
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Hyphomonadaceae,125.16666666666667,168.75,208.25,202.75,168.0,52.5,106.75
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Betaproteobacteriales; f__SC-I-84,139.16666666666666,194.75,229.5,245.5,138.5,35.75,47.5

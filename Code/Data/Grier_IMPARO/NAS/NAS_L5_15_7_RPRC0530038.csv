@@ -1,0 +1,16 @@
+,1,2,3,4,5,6,7
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae,0.883667199,0.031104199,0.611338805,0.983072771,0.565023586,0.224685113,0.881558286
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales|f__Neisseriaceae,0.00120336,0.911369233,0.108155068,0.004638819,0.301568067,0.052822227,0.060713215
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Corynebacteriaceae,0.003072579,0.014175091,0.258909864,6.69e-05,0.051268735,0.607315802,0.042876835
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Aerococcaceae,0.0,0.016831908,0.011252951,0.000234171,0.006491539,0.069713647,0.001210668
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Moraxellaceae,0.0,0.011842276,0.0055396,0.009333393,0.037708631,0.002567394,0.008498651
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Gemellales|f__Gemellaceae,0.036172995,0.002640617,0.000163531,0.000144963,0.005856811,0.020717091,0.000611328
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae,0.033308999,0.000421203,1.02e-05,0.0,0.0,0.000521105,0.0
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Veillonellaceae,0.008511765,0.0,0.001022066,0.000490644,0.003000534,0.00096595,4.79e-05
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae,0.0,0.0,4.09e-05,0.0,4.33e-05,0.012417545,2.4e-05
+k__Bacteria|p__Cyanobacteria|c__Chloroplast|o__Streptophyta|f__,0.0,0.0,1.02e-05,0.0,0.008814068,0.0,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Carnobacteriaceae,0.003273139,0.000356402,0.000735888,0.000390285,0.00324577,0.0,1.2e-05
+k__Bacteria|p__Firmicutes|c__Bacilli|Other|Other,0.004083401,0.001020607,0.000214634,4.46e-05,0.000418344,0.001283697,0.00029967
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae,9.63e-05,0.002689217,0.000419047,0.000479493,0.001009795,0.001487055,0.000515433
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Propionibacteriaceae,0.0,0.002170814,0.001369569,0.000278775,0.001731077,0.000228778,0.000107881
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__[Tissierellaceae],0.0,0.0,4.09e-05,1.12e-05,0.003173641,0.002491135,0.0

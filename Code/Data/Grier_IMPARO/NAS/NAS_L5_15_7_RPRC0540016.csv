@@ -1,0 +1,16 @@
+,1,2,3,4,5,6,7
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae,0.000111635,0.002267288,0.000181017,0.851908286,0.541240286,0.341447813,3.49e-05
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Moraxellaceae,0.323494608,0.382856783,0.35428106,0.013931215,0.000115411,0.0,0.111779685
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae,0.238875617,0.281710543,0.099408677,0.040342476,0.20704778,0.433668574,0.741139947
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Corynebacteriaceae,0.299180602,0.148570349,0.4041815,0.023001016,0.000769408,0.054906002,0.117953816
+k__Bacteria|p__Firmicutes|c__Bacilli|Other|Other,0.000178615,0.0,3.02e-05,0.066173269,0.040470878,0.030811329,0.000156969
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Aerococcaceae,0.12936212,0.079607003,0.103059193,0.0,0.0,0.0,0.023841914
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Gemellales|f__Gemellaceae,0.00087075,0.0,0.011856634,0.00043535,0.001577287,0.009595224,0.000697642
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Veillonellaceae,0.000625153,0.011714322,0.002262716,0.00043535,0.021889667,0.018728455,0.000313939
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Porphyromonadaceae,0.001071692,0.007242726,0.002835938,0.000362792,0.016734631,0.06809055,0.001029022
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Propionibacteriaceae,6.7e-05,0.0,0.0,0.000145117,0.095406632,0.000284303,0.00033138
+k__Bacteria|p__Fusobacteria|c__Fusobacteriia|o__Fusobacteriales|f__Leptotrichiaceae,0.00029025,0.012092203,0.0,0.00043535,0.020581673,0.023135151,0.000575555
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales|f__Neisseriaceae,0.001607538,0.031238191,0.004253907,0.000362792,0.000769408,3.55e-05,8.72e-05
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__[Paraprevotellaceae],0.000982384,0.0,0.004223737,0.000580467,0.014349465,0.0,0.000366262
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae,0.000200942,0.013036906,0.001448139,0.000217675,0.014888051,0.001919045,0.000226734
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Actinomycetaceae,0.000156288,0.007872528,0.000965426,0.000217675,0.005847503,0.011336579,0.000122087

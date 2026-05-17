@@ -1,0 +1,16 @@
+,1,2,3,4,5,6,7
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae,0.942828569,0.699150215,0.693847394,0.664801224,0.000583169,0.91441678,0.69060921
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae,0.0,0.0,0.0,0.0,0.942939171,1.54e-05,0.0
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Xanthomonadales|f__Xanthomonadaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Veillonellaceae,0.023376948,0.155320043,0.022031166,0.00422204,2.24e-05,0.029871494,0.017940214
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Gemellales|f__Gemellaceae,0.000562547,0.001874051,0.025960505,0.027939135,6.73e-05,0.025253305,0.042157277
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Carnobacteriaceae,0.002791899,0.005492908,0.060686459,0.082712306,4.49e-05,0.000324354,0.079373205
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales|f__Neisseriaceae,0.0,0.002229474,0.046950564,0.166685557,0.0,0.0,0.014868565
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__[Paraprevotellaceae],0.0,0.000129245,0.101020956,0.008826613,0.000179437,0.000247127,0.116967525
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae,0.000145845,0.055930725,0.005541376,0.002861919,4.49e-05,0.000262573,0.000734525
+k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__[Weeksellaceae],2.08e-05,0.00025849,0.002552391,0.000722564,0.0,0.002502162,0.001313241
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Actinomycetaceae,0.029231603,0.015800187,0.000671682,0.001501799,0.0,0.02004819,0.000957108
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Porphyromonadaceae,6.25e-05,0.001518627,0.01222461,0.015570542,2.24e-05,0.000695045,0.012642732
+k__Bacteria|p__Fusobacteria|c__Fusobacteriia|o__Fusobacteriales|f__Leptotrichiaceae,0.0,0.018449708,0.016523375,0.005752175,0.0,3.09e-05,0.000578717
+k__Bacteria|p__Firmicutes|c__Bacilli|Other|Other,8.33e-05,0.000355423,0.006145889,0.001445128,0.001278486,0.001436427,0.018429897
+k__Bacteria|p__Proteobacteria|c__Epsilonproteobacteria|o__Campylobacterales|f__Campylobacteraceae,2.08e-05,0.009370254,0.001712789,0.000311694,0.0,0.001003954,0.000244842

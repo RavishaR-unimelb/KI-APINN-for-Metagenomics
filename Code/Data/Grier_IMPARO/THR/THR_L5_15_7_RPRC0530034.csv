@@ -1,0 +1,16 @@
+,1,2,3,4,5,6,7
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae,0.85762915,0.849628844,0.913142599,0.990394446,0.908506782,0.952415778,0.902391789
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Veillonellaceae,0.107395421,0.106115235,0.07821425,1.12e-05,0.081483443,0.025644287,0.019110722
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Gemellales|f__Gemellaceae,0.002541052,0.00427713,0.001177473,0.0,0.000834997,0.008728279,0.026188768
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__[Paraprevotellaceae],0.014527149,0.0,0.002229682,0.0,0.004541567,0.0,5.9e-05
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Carnobacteriaceae,0.000575333,0.0,0.000425894,0.0,0.001435787,0.0,0.018953432
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae,0.00098286,0.00077766,0.000150316,0.0,0.000478596,0.002988919,6.88e-05
+k__Bacteria|p__Firmicutes|c__Bacilli|Other|Other,7.19e-05,0.028808766,0.000150316,2.25e-05,0.000112012,0.000556448,0.004846495
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Porphyromonadaceae,0.001438332,0.0,0.001427999,0.0,0.000274938,0.0,0.009083491
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales|f__Neisseriaceae,0.0,0.0,0.0,0.008920246,7.13e-05,4.77e-05,0.003804449
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae,0.000958888,0.009225875,7.52e-05,8.99e-05,5.09e-05,0.00011129,0.000137629
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae,0.007838907,0.0,0.0,0.0,0.0,0.0,0.000599668
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Micrococcaceae,0.000958888,0.000247437,0.001929051,0.0,0.000936825,0.002066806,0.000176951
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pasteurellales|f__Pasteurellaceae,2.4e-05,0.0,0.0,0.0,0.0,0.0,0.005593622
+k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__[Weeksellaceae],0.000143833,0.000141393,0.000175368,0.0,0.000264755,9.54e-05,0.003145798
+k__Bacteria|p__Actinobacteria|c__Coriobacteriia|o__Coriobacteriales|f__Coriobacteriaceae,0.002996524,0.0,0.0,0.0,0.000397132,0.0,0.0

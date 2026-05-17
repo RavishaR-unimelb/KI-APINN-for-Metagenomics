@@ -1,0 +1,16 @@
+,1,2,3,4,5,6,7
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Corynebacteriaceae,0.697114045,0.475935025,0.699612699,0.0,0.000104961,0.589573198,0.000251889
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae,0.003574944,0.160738704,0.003171602,0.006377353,0.802078231,0.161317017,0.001259446
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae,0.000427136,0.003606365,0.004604922,0.964483849,0.009586453,0.000877677,0.949118388
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Moraxellaceae,0.279152042,0.200453801,0.111189046,0.0,0.0,0.159110286,0.0
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales|f__Neisseriaceae,0.0,0.099490601,0.000701412,0.000518484,0.141067805,0.015246502,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Aerococcaceae,0.015692611,0.00548468,0.174163642,0.000674029,0.0,0.020337028,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|Other|Other,0.000129998,0.011209785,0.000335458,0.024265049,0.000104961,0.001128442,0.040134341
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__[Paraprevotellaceae],0.0,0.0,9.15e-05,0.0,0.0,0.003686243,0.0
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Porphyromonadaceae,0.0,0.0,0.00039645,0.0,0.033657547,0.000376147,0.000251889
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Veillonellaceae,0.000259996,0.00730289,0.000365954,0.0,0.0,0.008902152,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Gemellales|f__Gemellaceae,9.29e-06,0.000270477,9.15e-05,0.0,0.0,0.004664226,0.0
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Propionibacteriaceae,0.000519992,0.020120513,0.001585801,0.0,0.000839689,0.002206731,0.000503778
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Carnobacteriaceae,0.0,0.000631114,0.000182977,0.0,0.011055909,0.00185566,0.0
+k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Rhizobiales|f__Methylobacteriaceae,0.0,0.0,0.000213473,0.0,0.000244909,0.0,0.008060453
+k__Bacteria|p__Fusobacteria|c__Fusobacteriia|o__Fusobacteriales|f__Leptotrichiaceae,0.0,0.000315557,0.000365954,0.0,0.0,0.000401224,0.0

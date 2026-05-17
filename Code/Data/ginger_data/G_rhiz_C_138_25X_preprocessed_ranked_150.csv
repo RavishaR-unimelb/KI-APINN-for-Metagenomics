@@ -1,0 +1,151 @@
+OTU ID,1,2,3,4,5,6,7
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae,885.0,1230.5,558.25,539.75,446.5,190.0,142.5
+d__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Cytophagales; f__Microscillaceae,557.8333333333333,739.25,704.0,1047.0,410.75,125.5,139.0
+d__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae,599.8333333333334,806.5,510.25,726.25,456.0,259.0,180.25
+d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae,432.49999999999994,664.5,1198.75,647.0,416.0,125.25,33.25
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Betaproteobacteriales; f__Burkholderiaceae,462.8333333333333,633.0,527.0,693.25,489.0,126.0,81.25
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Betaproteobacteriales; f__Nitrosomonadaceae,263.3333333333333,444.25,685.5,662.0,533.0,137.0,209.0
+d__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__Gemmatimonadales; f__Gemmatimonadaceae,340.5,677.25,536.25,495.0,416.5,69.75,127.0
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae,931.3333333333334,771.25,336.0,200.25,60.0,110.0,45.25
+d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__uncultured bacterium,198.66666666666666,513.5,341.5,500.0,368.0,142.5,94.0
+d__Bacteria; p__Planctomycetes; c__Planctomycetacia; o__Pirellulales; f__Pirellulaceae,348.1666666666667,454.25,378.25,401.75,270.0,54.0,69.25
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae,298.8333333333333,453.5,380.0,311.25,230.0,114.5,115.0
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae,323.1666666666667,377.25,746.0,170.25,118.75,39.0,27.0
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Gammaproteobacteria Incertae Sedis; f__Unknown Family,242.33333333333334,329.75,296.25,320.25,287.0,95.5,93.75
+d__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Propionibacteriales; f__Nocardioidaceae,321.1666666666667,486.5,276.25,306.0,121.75,72.5,74.5
+d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Myxococcales; f__BIrii41,356.16666666666663,391.25,284.75,387.75,121.0,32.0,7.0
+d__Bacteria; p__Chloroflexi; c__Chloroflexia; o__Chloroflexales; f__Roseiflexaceae,161.5,193.25,214.0,422.0,421.0,77.5,66.0
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae,265.1666666666667,371.5,267.5,250.25,190.0,74.75,82.25
+d__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Micromonosporales; f__Micromonosporaceae,293.1666666666667,287.25,221.0,403.25,186.5,41.25,12.5
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Dongiales; f__Dongiaceae,145.33333333333334,210.5,220.75,321.5,284.25,129.5,123.0
+d__Bacteria; p__Verrucomicrobia; c__Verrucomicrobiae; o__Pedosphaerales; f__Pedosphaeraceae,116.33333333333333,229.5,273.25,390.25,268.5,61.75,75.75
+d__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__Phycisphaerales; f__Phycisphaeraceae,158.83333333333334,260.0,207.25,288.5,314.0,52.0,80.5
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Rhizobiaceae,257.0,278.75,158.25,188.0,134.75,124.0,61.5
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Rhodanobacteraceae,286.5,450.0,145.0,90.75,40.75,74.25,33.75
+d__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae,330.16666666666663,317.5,116.75,92.0,107.25,64.75,92.0
+d__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__Tepidisphaerales; f__WD2101 soil group,117.33333333333333,190.5,150.5,240.75,264.75,27.25,125.0
+d__Bacteria; p__Acidobacteria; c__Thermoanaerobaculia; o__Thermoanaerobaculales; f__Thermoanaerobaculaceae,72.0,102.75,194.75,439.75,225.0,50.5,25.0
+d__Bacteria; p__Patescibacteria; c__Parcubacteria; o__Candidatus Kaiserbacteria; f__uncultured bacterium,148.16666666666666,315.25,143.5,222.5,215.75,15.0,38.5
+d__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Solibacterales; f__Solibacteraceae (Subgroup 3),131.83333333333334,196.75,163.75,227.75,210.5,77.75,58.75
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Hyphomonadaceae,125.16666666666667,168.75,208.25,202.75,168.0,52.5,106.75
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Betaproteobacteriales; f__SC-I-84,139.16666666666666,194.75,229.5,245.5,138.5,35.75,47.5
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__uncultured; f__uncultured bacterium,146.5,221.25,155.75,170.25,149.75,38.5,49.0
+d__Bacteria; p__Acidobacteria; c__Subgroup 6; o__uncultured bacterium; f__uncultured bacterium,121.5,150.25,192.75,183.75,177.0,40.25,56.75
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae,164.33333333333331,183.25,149.0,168.75,153.75,57.75,43.25
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__PLTA13; f__uncultured bacterium,110.33333333333333,170.25,172.25,162.5,111.25,37.75,91.75
+d__Bacteria; p__Nitrospirae; c__Nitrospira; o__Nitrospirales; f__Nitrospiraceae,112.16666666666667,126.25,177.0,168.0,170.25,50.25,45.5
+d__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Micrococcales; f__Microbacteriaceae,146.83333333333331,191.75,133.5,157.0,75.5,61.0,34.5
+d__Bacteria; p__Verrucomicrobia; c__Verrucomicrobiae; o__Chthoniobacterales; f__Chthoniobacteraceae,80.0,129.75,128.25,192.75,156.5,38.25,64.5
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Cellvibrionales; f__Cellvibrionaceae,79.0,75.75,41.25,191.25,378.75,9.75,0.0
+d__Bacteria; p__Planctomycetes; c__OM190; o__uncultured bacterium; f__uncultured bacterium,45.166666666666664,63.5,136.25,231.5,205.5,24.25,38.5
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Devosiaceae,203.33333333333331,223.25,81.5,94.75,53.75,33.0,37.0
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__CCD24; f__uncultured bacterium,102.83333333333333,156.0,155.0,124.75,96.25,31.75,37.25
+d__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Sphingobacteriales; f__env.OPS 17,104.83333333333333,223.75,136.25,109.75,67.5,8.75,27.25
+d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Myxococcales; f__Archangiaceae,92.33333333333333,173.5,128.5,142.5,100.0,22.0,13.25
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae,209.83333333333331,185.75,75.0,107.25,54.5,17.0,14.5
+d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Paenibacillaceae,18.0,36.0,88.25,78.0,393.25,16.0,30.0
+d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Myxococcales; f__Haliangiaceae,64.33333333333333,108.5,90.0,142.0,150.0,8.0,19.25
+d__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Streptomycetales; f__Streptomycetaceae,130.33333333333334,176.0,81.25,92.5,36.5,36.25,7.0
+d__Bacteria; p__Chloroflexi; c__KD4-96; o__uncultured bacterium; f__uncultured bacterium,76.33333333333333,89.5,112.25,117.25,79.75,22.0,31.75
+d__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Micrococcales; f__Micrococcaceae,127.0,152.5,116.0,79.25,34.75,7.0,7.75
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Diplorickettsiales; f__Diplorickettsiaceae,80.33333333333333,248.5,88.5,54.25,24.5,2.0,3.0
+d__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__67-14,52.5,87.25,83.0,82.75,76.75,47.0,61.25
+d__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Sphingobacteriales; f__Sphingobacteriaceae,212.33333333333334,101.25,50.25,34.0,37.5,30.75,17.75
+d__Archaea; p__Thaumarchaeota; c__Nitrososphaeria; o__Nitrosopumilales; f__Nitrosopumilaceae,43.0,81.75,58.0,98.5,166.5,14.5,16.75
+d__Bacteria; p__Gemmatimonadetes; c__S0134 terrestrial group; o__uncultured bacterium; f__uncultured bacterium,73.66666666666666,141.5,86.25,64.0,58.0,3.0,21.5
+d__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Chitinophagales; f__Saprospiraceae,99.83333333333334,61.5,104.25,63.5,54.25,7.5,44.75
+d__Bacteria; p__Chloroflexi; c__Anaerolineae; o__SBR1031; f__A4b,49.0,87.75,69.5,102.75,85.5,14.25,26.0
+d__Bacteria; p__Acidobacteria; c__Blastocatellia (Subgroup 4); o__Blastocatellales; f__Blastocatellaceae,82.0,121.5,53.75,36.0,55.25,27.25,42.0
+d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Myxococcales; f__Polyangiaceae,32.333333333333336,37.5,98.25,142.75,90.0,5.25,3.5
+d__Bacteria; p__Verrucomicrobia; c__Verrucomicrobiae; o__Verrucomicrobiales; f__Verrucomicrobiaceae,59.666666666666664,61.0,78.75,118.25,68.5,10.5,10.75
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Betaproteobacteriales; f__TRA3-20,44.833333333333336,85.5,103.0,69.5,64.75,15.25,18.25
+d__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Gaiellales; f__Gaiellaceae,56.333333333333336,72.75,69.75,64.75,60.25,27.25,49.25
+d__Bacteria; p__Fibrobacteres; c__Fibrobacteria; o__Fibrobacterales; f__Fibrobacteraceae,103.0,80.25,60.25,92.5,19.5,14.25,23.75
+d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Bdellovibrionales; f__Bdellovibrionaceae,76.83333333333333,102.5,78.75,59.75,56.5,6.75,10.0
+d__Bacteria; p__Chloroflexi; c__OLB14; o__uncultured bacterium; f__uncultured bacterium,43.66666666666666,70.0,63.0,60.5,81.5,10.5,55.5
+d__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Sphingobacteriales; f__AKYH767,35.5,39.0,141.5,98.5,43.75,5.25,18.5
+d__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Corynebacteriales; f__Mycobacteriaceae,72.33333333333333,89.0,57.5,72.75,40.5,27.5,17.75
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Reyranellales; f__Reyranellaceae,36.833333333333336,44.5,77.5,102.75,68.25,35.5,10.25
+d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Myxococcales; f__Nannocystaceae,88.0,115.25,81.0,53.25,26.75,1.75,2.5
+d__Bacteria; p__Patescibacteria; c__Parcubacteria; o__uncultured bacterium; f__uncultured bacterium,38.5,71.5,53.0,102.5,66.0,8.25,17.5
+d__Bacteria; p__Acidobacteria; c__Blastocatellia (Subgroup 4); o__Pyrinomonadales; f__Pyrinomonadaceae,18.333333333333332,36.75,66.75,67.0,109.25,20.25,37.75
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Micropepsales; f__Micropepsaceae,37.66666666666667,140.5,22.5,47.25,40.75,33.5,30.5
+d__Bacteria; p__Chloroflexi; c__Chloroflexia; o__Thermomicrobiales; f__JG30-KF-CM45,52.33333333333333,92.0,65.25,71.75,49.5,10.25,5.0
+d__Bacteria; p__Acidobacteria; c__Holophagae; o__Subgroup 7; f__uncultured bacterium,38.166666666666664,39.25,69.5,90.75,62.0,10.25,31.25
+d__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Sphingobacteriales; f__KD3-93,106.0,106.25,98.0,18.75,3.0,1.25,0.0
+d__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Microtrichales; f__uncultured,45.166666666666664,79.75,61.5,70.0,41.25,4.75,19.25
+d__Bacteria; p__Spirochaetes; c__Spirochaetia; o__Spirochaetales; f__Spirochaetaceae,31.666666666666668,64.75,69.75,120.75,28.25,0.0,1.0
+d__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Streptosporangiales; f__Thermomonosporaceae,21.0,76.75,39.75,53.75,59.5,47.0,16.0
+d__Bacteria; p__Planctomycetes; c__Planctomycetacia; o__Gemmatales; f__Gemmataceae,28.666666666666668,38.75,49.0,94.25,79.5,10.5,7.5
+d__Bacteria; p__Bacteroidetes; c__Ignavibacteria; o__OPB56; f__uncultured bacterium,36.833333333333336,60.5,64.25,89.25,36.75,11.0,8.5
+d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Myxococcales; f__Sandaracinaceae,54.5,75.25,50.25,82.25,28.0,4.75,10.5
+d__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Frankiales; f__Geodermatophilaceae,46.49999999999999,58.75,44.0,81.0,37.0,16.5,19.5
+d__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Microtrichales; f__Ilumatobacteraceae,41.0,52.25,55.75,64.0,30.5,26.5,30.5
+d__Archaea; p__Nanoarchaeaeota; c__Woesearchaeia; o__uncultured euryarchaeote; f__uncultured euryarchaeote,23.166666666666668,38.75,35.0,65.75,117.5,2.75,6.0
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae,39.666666666666664,44.5,52.75,50.5,74.25,16.25,8.75
+d__Bacteria; p__Acidobacteria; c__Subgroup 6; o__uncultured Acidobacteria bacterium; f__uncultured Acidobacteria bacterium,28.166666666666668,48.25,90.0,66.5,38.75,0.0,14.5
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Salinisphaerales; f__Solimonadaceae,15.833333333333332,40.75,63.0,95.25,37.5,9.75,16.25
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Micavibrionales; f__uncultured,36.833333333333336,58.75,44.0,52.5,43.75,8.0,22.25
+d__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Gaiellales; f__uncultured,18.333333333333332,76.0,50.25,46.25,51.0,12.75,9.25
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__R7C24; f__uncultured bacterium,52.166666666666664,80.25,51.75,48.5,26.25,0.0,3.25
+d__Bacteria; p__Omnitrophicaeota; c__uncultured bacterium; o__uncultured bacterium; f__uncultured bacterium,16.833333333333332,39.5,90.0,47.25,50.25,0.75,11.25
+d__Bacteria; p__Armatimonadetes; c__Fimbriimonadia; o__Fimbriimonadales; f__Fimbriimonadaceae,50.5,76.5,32.25,41.75,34.25,6.25,13.25
+d__Bacteria; p__Dependentiae; c__Babeliae; o__Babeliales; f__Vermiphilaceae,23.0,91.5,60.5,47.5,18.5,3.25,7.75
+d__Bacteria; p__Planctomycetes; c__Planctomycetacia; o__Planctomycetales; f__uncultured,44.5,64.5,45.25,54.5,36.5,0.0,4.75
+d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfarculales; f__Desulfarculaceae,24.0,44.75,58.75,61.5,51.75,3.25,5.25
+d__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Pseudonocardiales; f__Pseudonocardiaceae,14.666666666666666,47.5,38.75,61.75,59.0,23.0,2.25
+d__Bacteria; p__Chlamydiae; c__Chlamydiae; o__Chlamydiales; f__cvE6,13.833333333333334,66.75,34.0,40.25,55.25,15.5,13.25
+d__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Micrococcales; f__Intrasporangiaceae,62.833333333333336,70.25,37.75,44.5,13.5,4.5,3.5
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae,58.83333333333333,55.0,38.5,32.0,27.25,14.25,9.0
+d__Bacteria; p__Latescibacteria; c__uncultured bacterium; o__uncultured bacterium; f__uncultured bacterium,23.0,27.75,49.75,31.75,64.75,12.0,15.75
+d__Bacteria; p__Planctomycetes; c__vadinHA49; o__uncultured bacterium; f__uncultured bacterium,16.0,33.25,42.5,85.5,31.75,4.0,1.0
+d__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae,47.833333333333336,41.75,50.25,44.5,7.0,0.0,22.0
+d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Myxococcales; f__bacteriap25,28.333333333333336,29.75,51.0,41.5,43.0,3.0,7.0
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Amb-16S-1323,43.0,69.25,43.75,31.5,11.0,3.0,0.0
+d__Bacteria; p__Gemmatimonadetes; c__Longimicrobia; o__Longimicrobiales; f__Longimicrobiaceae,33.83333333333333,52.5,44.0,33.25,28.75,0.0,8.25
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Betaproteobacteriales; f__Rhodocyclaceae,23.166666666666664,23.25,28.0,61.5,54.0,3.75,3.0
+d__Bacteria; p__Chloroflexi; c__Chloroflexia; o__Chloroflexales; f__Chloroflexaceae,12.333333333333332,12.75,31.0,58.0,53.0,24.5,2.75
+d__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__IMCC26256; f__uncultured bacterium,28.166666666666668,29.25,29.5,35.25,28.75,15.0,23.0
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__uncultured; f__uncultured Rhodospirillaceae bacterium,28.0,35.5,31.25,36.75,35.0,8.5,7.5
+d__Bacteria; p__Chlamydiae; c__Chlamydiae; o__Chlamydiales; f__Simkaniaceae,20.166666666666668,32.5,6.0,28.5,51.0,14.25,24.75
+d__Bacteria; p__Planctomycetes; c__Planctomycetacia; o__Planctomycetales; f__Rubinisphaeraceae,34.666666666666664,38.25,31.75,27.25,33.75,7.75,1.25
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methyloligellaceae,21.5,49.5,33.25,30.0,24.0,10.0,4.75
+d__Bacteria; p__Chloroflexi; c__JG30-KF-CM66; o__uncultured bacterium; f__uncultured bacterium,21.5,21.75,46.25,32.0,38.0,2.0,11.25
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__Mitochondria,60.0,60.0,20.75,5.75,24.5,0.0,1.25
+d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Oligoflexales; f__0319-6G20,20.333333333333332,64.5,23.0,27.5,31.25,1.5,3.75
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Rhizobiales Incertae Sedis,18.833333333333332,41.75,22.75,43.75,25.0,11.0,8.25
+d__Bacteria; p__Bacteroidetes; c__Ignavibacteria; o__SJA-28; f__uncultured bacterium,22.166666666666668,59.25,35.75,31.5,17.0,1.25,2.25
+d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Oligoflexales; f__Oligoflexaceae,31.0,37.5,52.5,33.5,6.5,0.0,0.0
+d__Bacteria; p__Chloroflexi; c__Anaerolineae; o__Anaerolineales; f__Anaerolineaceae,14.333333333333334,14.25,24.25,49.0,43.25,9.0,5.25
+d__Bacteria; p__Rokubacteria; c__NC10; o__Rokubacteriales; f__uncultured bacterium,19.333333333333332,25.25,42.5,28.5,28.0,4.5,11.0
+d__Bacteria; p__Chloroflexi; c__Anaerolineae; o__SBR1031; f__uncultured bacterium,16.5,20.0,29.0,44.0,46.5,0.0,2.5
+d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__NB1-j; f__uncultured bacterium,10.666666666666666,22.75,36.75,40.5,32.5,5.0,8.25
+d__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Sphingobacteriales; f__NS11-12 marine group,24.0,38.0,31.5,31.75,20.5,1.0,5.0
+d__Bacteria; p__Chloroflexi; c__TK10; o__uncultured bacterium; f__uncultured bacterium,21.833333333333336,21.5,25.25,24.5,37.75,18.25,2.5
+d__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Cytophagales; f__Spirosomaceae,16.0,31.5,22.25,41.0,27.75,4.25,4.25
+d__Bacteria; p__Verrucomicrobia; c__Verrucomicrobiae; o__Opitutales; f__Opitutaceae,21.833333333333332,32.75,25.75,48.0,11.25,4.0,1.25
+d__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Flavobacteriales; f__NS9 marine group,11.5,29.25,20.5,35.25,19.5,4.5,18.25
+d__Bacteria; p__Chloroflexi; c__Anaerolineae; o__Ardenticatenales; f__uncultured,3.0,4.0,18.75,21.5,54.0,9.5,25.5
+d__Bacteria; p__Chloroflexi; c__Chloroflexia; o__Kallotenuales; f__AKIW781,5.5,4.25,12.75,55.75,28.5,27.5,0.75
+d__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Flavobacteriales; f__Crocinitomicaceae,40.0,34.0,16.5,20.0,15.75,1.5,6.75
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Elsterales; f__uncultured,16.166666666666664,43.25,34.0,28.0,12.75,0.0,0.0
+d__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Micrococcales; f__Promicromonosporaceae,31.5,35.5,23.75,26.25,16.0,0.0,0.0
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__A0839,9.5,13.0,24.5,27.0,38.0,11.25,9.0
+d__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae,28.0,41.0,18.25,21.75,16.25,4.0,2.25
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Rhodomicrobiaceae,19.666666666666668,42.0,12.75,27.25,20.25,6.5,2.25
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae,27.833333333333332,32.75,8.0,16.5,12.25,23.75,8.75
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__SM2D12,17.666666666666668,37.75,20.0,36.0,13.0,0.0,4.0
+d__Bacteria; p__Omnitrophicaeota; c__Omnitrophia; o__Omnitrophales; f__Omnitrophaceae,5.833333333333333,40.5,41.25,28.5,11.5,0.0,0.0
+d__Bacteria; p__Planctomycetes; c__Pla4 lineage; o__uncultured bacterium; f__uncultured bacterium,6.333333333333332,15.0,29.0,28.25,39.5,1.0,8.5
+d__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Micrococcales; f__Brevibacteriaceae,35.49999999999999,29.5,22.75,25.5,11.75,0.0,0.0
+d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae,27.0,31.0,26.5,28.75,6.75,1.25,0.0
+d__Bacteria; p__Chloroflexi; c__Gitt-GS-136; o__uncultured bacterium; f__uncultured bacterium,13.166666666666666,21.75,10.0,24.5,24.0,12.75,14.0
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__KF-JG30-C25; f__uncultured bacterium,3.3333333333333335,97.75,9.0,7.25,1.0,1.0,0.0
+d__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Chitinophagales; f__37-13,17.5,24.0,25.0,20.0,12.0,1.25,15.25
+d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Myxococcales; f__Phaselicystidaceae,12.333333333333332,30.75,25.0,32.0,9.5,5.25,0.0
+d__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Streptosporangiales; f__Streptosporangiaceae,40.0,27.75,12.25,16.0,9.75,4.25,1.5
+d__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__Tepidisphaerales; f__Tepidisphaeraceae,31.0,28.75,12.5,30.5,5.5,0.0,1.5
+d__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Cytophagales; f__Hymenobacteraceae,31.5,29.25,41.0,6.25,1.25,0.0,0.0
+d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae,19.0,28.25,11.5,28.5,21.0,0.0,1.0
+d__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Microtrichales; f__Iamiaceae,23.166666666666664,32.5,17.5,21.75,9.5,2.0,2.25
+d__Bacteria; p__Chloroflexi; c__Anaerolineae; o__Caldilineales; f__Caldilineaceae,15.5,23.25,10.5,28.5,24.25,4.0,2.25

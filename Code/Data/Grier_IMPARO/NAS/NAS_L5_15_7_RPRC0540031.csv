@@ -1,0 +1,16 @@
+,1,2,3,4,5,6,7
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae,0.120077332,0.145974906,0.087590409,0.319929526,0.338173789,0.566713311,0.562203594
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Moraxellaceae,0.002998889,0.048899729,0.327714183,0.521660276,0.179521474,0.061916646,0.17589206
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales|f__Neisseriaceae,0.293784537,0.31287945,0.329081003,0.067157218,0.215421523,0.131378121,0.050382374
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Corynebacteriaceae,0.510176432,0.393871291,0.188526302,0.017670225,0.030443921,0.157431584,0.000105
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Veillonellaceae,0.016105707,0.019726051,0.002334985,0.031143124,0.025072713,0.002279317,0.072274819
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pasteurellales|f__Pasteurellaceae,0.014552983,0.0,0.000303738,0.0,0.091013311,0.0,0.0001925
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae,0.002359532,0.002396523,0.000132885,5.18e-05,0.010041823,0.0,0.08401729
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Aerococcaceae,0.0,0.034648403,0.024906506,0.0,0.008768019,0.014887693,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Carnobacteriaceae,0.012832808,0.009405023,0.008276857,0.0,0.031017133,0.001009824,0.0
+k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae,0.0,0.0,0.0,0.0,0.0,0.041171973,0.0
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae,0.004368939,0.002854526,0.000645443,0.003627319,0.007536675,0.0,0.017307457
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Propionibacteriaceae,0.008813993,0.000841446,0.005714069,0.014250181,0.00309959,0.004847156,1.75e-05
+k__Bacteria|p__Firmicutes|c__Bacilli|Other|Other,0.002983666,3.2e-05,0.000854263,0.0,0.000955353,0.0,0.033319917
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__[Paraprevotellaceae],0.002070299,0.010768379,0.003872658,0.0,0.003460501,0.0,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Gemellales|f__Gemellaceae,0.002192081,0.006561149,0.004688953,0.0,0.013035263,0.002091779,0.000577499

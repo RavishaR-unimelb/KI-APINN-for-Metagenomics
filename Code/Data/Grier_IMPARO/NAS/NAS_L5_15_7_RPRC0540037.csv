@@ -1,0 +1,16 @@
+,1,2,3,4,5,6,7
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Corynebacteriaceae,0.513230045,0.407647236,0.66443542,0.621836152,0.122219019,0.144595256,0.426015751
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae,0.000129326,0.004037279,0.043843332,0.319496564,0.057361492,0.0,0.157095916
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae,0.409368372,0.363709054,0.20425727,0.0258204,3.6e-05,0.676644656,0.248383143
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales|f__Neisseriaceae,3.88e-05,0.002608502,3.93e-05,0.001281754,2.4e-05,0.0,1.3e-05
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Mycobacteriaceae,0.0,0.001061752,0.0,0.000432399,0.798940464,0.0,0.001551661
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Moraxellaceae,0.0,0.0,0.0,3.09e-05,1.2e-05,0.0,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|Other|Other,0.055545497,0.008900366,0.003563008,0.007613312,0.000108116,0.138689166,0.162115996
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Dermabacteraceae,0.006582691,0.125784844,0.0,0.0,0.0,0.007764735,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Gemellales|f__Gemellaceae,0.0,0.0,0.0,0.007072813,0.004937293,0.0,0.002659991
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|Other,0.000103461,0.000799591,0.0,3.09e-05,0.0,0.0,0.0
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Veillonellaceae,0.0,0.0,0.0,0.009651764,0.0,0.0,0.0
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae,0.007863018,0.076773847,0.081254912,3.09e-05,0.0,0.0,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Carnobacteriaceae,0.0,0.0,0.0,0.000540499,0.002114266,0.0,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Aerococcaceae,1.29e-05,0.0,0.0,0.0,0.000156167,0.0,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae,0.006854276,0.007694425,0.000379879,0.0,0.0,0.031841526,0.0

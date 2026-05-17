@@ -1,0 +1,16 @@
+,1,2,3,4,5,6,7
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae,0.001137248,0.001438131,0.124147638,0.993787097,0.273599946,0.354580153,0.717770859
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae,0.988193572,0.627582766,0.171671359,0.004063349,0.0,0.005513147,0.021818182
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Corynebacteriaceae,0.00098761,0.222352665,0.688051298,0.000166417,0.344597683,0.187022901,0.1824533
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales|f__Neisseriaceae,0.000194529,0.0,0.0,0.0,0.015497307,0.069069833,0.054022416
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Moraxellaceae,0.0,0.0,1.04e-05,0.0,0.322979497,0.202176986,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|Other|Other,0.009038128,0.138324724,0.004733604,0.001372941,0.0,0.008552446,0.006127024
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Gemellales|f__Gemellaceae,0.0,0.0,0.002950683,0.0,0.00168352,0.05504665,0.001594022
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Veillonellaceae,0.0,0.0,0.000208529,0.0,0.000769291,0.013584959,0.004806974
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Aerococcaceae,1.5e-05,2.93e-05,0.0,0.0,0.027058968,0.033361606,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Carnobacteriaceae,0.0,0.0,0.0,0.0,0.0,0.016595985,0.001892902
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae,0.0,0.0,0.0,0.0,0.000958826,0.0,0.002976339
+k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae,0.0,0.0,0.0,0.0,0.0,0.000565451,0.0
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Propionibacteriaceae,0.00043395,0.0,0.000344073,0.0,0.000813887,0.008623127,0.001183064
+k__Bacteria|p__Fusobacteria|c__Fusobacteriia|o__Fusobacteriales|f__Leptotrichiaceae,0.0,0.0,0.0,0.0,0.0,0.002374894,0.000435866
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Porphyromonadaceae,0.0,0.0,0.000479616,0.0,0.000234132,0.00493356,0.00014944

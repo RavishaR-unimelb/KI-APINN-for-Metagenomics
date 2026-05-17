@@ -1,0 +1,16 @@
+,1,2,3,4,5,6,7
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae,0.792977932,0.671385503,0.522325743,0.074610206,0.372836614,0.095463448,0.429811384
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae,0.108122225,0.228798008,0.005895543,0.001709163,0.4150729,0.823535017,0.097342984
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Corynebacteriaceae,0.002481066,0.002293879,0.011578459,0.552896857,0.150466767,0.060197978,0.005614482
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Mycobacteriaceae,0.035453121,0.0,0.0,0.0,0.0,0.0,0.0
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales|f__Neisseriaceae,0.028173152,0.0,0.185448641,0.066517842,0.001905528,0.001196337,0.335821915
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Moraxellaceae,0.0,6.55e-05,0.027486759,0.256357041,1.75e-05,0.0,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Carnobacteriaceae,0.004472447,0.0,0.038079406,0.008249329,0.001066396,6.35e-05,0.06386853
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Gemellales|f__Gemellaceae,0.006300601,0.003342509,0.017358024,0.00355785,0.01201007,0.002265629,0.009893628
+k__Bacteria|p__Firmicutes|c__Bacilli|Other|Other,0.002072996,0.009830908,0.000985812,0.000662737,0.019195133,0.011603409,0.003019681
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Veillonellaceae,0.002725908,0.029623804,0.034928674,0.006609927,0.00596133,0.001312794,0.019832779
+k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__[Weeksellaceae],0.000179551,0.0,0.025979047,0.007726115,0.000716758,6.35e-05,0.0
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Porphyromonadaceae,0.003068686,0.0,0.019097692,0.002284698,0.000349638,0.000317612,0.017738729
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Aerococcaceae,0.0,0.0,0.038330692,0.007464509,0.00073424,0.000105871,3.03e-05
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__[Paraprevotellaceae],0.001044659,0.0,0.017918584,0.005197251,0.0,0.000381134,0.007996844
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__[Tissierellaceae],0.002007704,0.0,0.001488383,1.74e-05,0.013356176,0.000243502,0.0

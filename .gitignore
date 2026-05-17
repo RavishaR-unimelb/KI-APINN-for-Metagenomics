@@ -1,0 +1,55 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment and dependency folders
+.venv/
+venv/
+env/
+*.env
+*.venv
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter and VSCode
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Build / distribution artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.out
+
+# Model and large data files
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.pkl
+*.joblib
+*.npz
+*.npy
+
+# Datasets
+Code/Results/
+Code/MetagenomicKG/
+
+# Notebooks’ autosaves
+*.ipynb_checkpoints/
+
+# Others
+*.bak
+*.jpg
+*.json
+*.txt
+*.slurm
+

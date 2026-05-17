@@ -1,0 +1,11 @@
+,1,2,3,4,5,6,7
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae,0.009237217,0.002200553,0.808005941,0.000530919,0.796176272,0.757912234,0.001554219
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae,0.387436508,0.488013863,0.002858264,0.219747548,0.002464903,0.086901596,0.349839138
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Corynebacteriaceae,0.118569877,0.003520885,0.001485176,0.462921915,0.001226196,9.97e-05,0.491319687
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pasteurellales|f__Pasteurellaceae,0.0,0.0,0.006599227,0.0,0.019606616,0.010272606,0.0
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales|f__Neisseriaceae,0.263403289,0.397364838,4.2e-05,0.067838229,1.25e-05,0.0,0.058749475
+k__Bacteria|p__Firmicutes|c__Bacilli|Other|Other,0.000570469,0.0,0.177814829,0.000172549,0.179387403,0.132945479,0.002377955
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Aerococcaceae,0.074018409,0.033475911,5.6e-05,0.190971715,0.0,0.0,0.02335991
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Veillonellaceae,0.027371562,0.02921234,0.0,0.022510983,0.0,9.97e-05,0.027540759
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Moraxellaceae,0.07056268,1.38e-05,1.4e-05,0.0,1.25e-05,0.0,0.000326386
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae,0.002490318,0.011896739,0.0,0.002628051,0.0,0.0,0.007677842

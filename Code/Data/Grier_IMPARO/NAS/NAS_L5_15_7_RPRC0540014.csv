@@ -1,0 +1,16 @@
+,1,2,3,4,5,6,7
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Corynebacteriaceae,0.00212493,0.121089932,0.000884832,0.804666887,0.019503713,0.03125,0.04026458
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae,0.147812229,0.264968231,0.103758208,0.000346306,0.276623743,0.509451486,0.000260853
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae,0.002552508,0.0,2.33e-05,0.112994723,0.387489426,0.250327797,0.183920253
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Moraxellaceae,0.5461978,0.557581867,0.0,0.0,0.0,0.0,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|Other|Other,1.3e-05,0.000366569,0.0,0.068931398,0.006579566,0.012401661,0.206036892
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae,0.000596017,0.0,0.009244167,0.001253298,0.011373249,0.0,0.239295696
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae,0.009730626,0.0,0.708517673,0.0,0.0,0.0,0.0
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae,0.000349836,0.0,0.095701579,0.011691953,0.00803647,0.057473776,0.328339855
+k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Rhizobiales|f__Bartonellaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales|f__Neisseriaceae,0.193200223,0.003085288,0.051529828,0.0,0.018751762,0.013275787,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Bacillaceae,0.000298009,0.000580401,0.00013971,3.3e-05,0.0,5.46e-05,1.86e-05
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__[Tissierellaceae],0.0,0.0,0.0,0.0,0.0,0.017482517,0.0
+k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__[Weeksellaceae],0.001995361,0.0,0.0,0.0,0.130134411,0.022399476,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Carnobacteriaceae,0.007450213,0.0,0.0,1.65e-05,0.026506251,0.033599213,0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Gemellales|f__Gemellaceae,0.009432618,0.0,0.0,0.0,0.019503713,0.0,0.0
