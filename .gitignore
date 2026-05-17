@@ -30,7 +30,6 @@ dist/
 *.out
 
 # Model and large data files
-*.pt
 *.pth
 *.h5
 *.ckpt
@@ -49,7 +48,5 @@ Code/MetagenomicKG/
 # Others
 *.bak
 *.jpg
-*.json
-*.txt
 *.slurm
 
