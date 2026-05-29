@@ -10,7 +10,7 @@
  
 - **Multimodal knowledge integration**: Combines network structure, textual descriptions, numerical data, and physical constraints
 - **Physics-informed learning**: Enforces domain-specific equations and constraints
-- **Interpretable adaptation**: Mechanism reveals how different knowledge sources contribute to predictions
+- **Interpretable adaptation**: Mechanism reveals how different knowledge sources contribute
 - **Cross-domain applicability**: Can be instantiated for various scientific domains
 ### A²G²: Metagenomics Instantiation
  
@@ -20,7 +20,7 @@
 - **Biological text** (Text embeddings)
 - **Abundance data** (Experimental data)
 - **Physics-informed constraints** (Generalized Lotka–Volterra equations)
-Through interpretable adaptive mechanisms, A²G² learns how different knowledge modalities contribute to predicting microbial community dynamics across diverse ecosystems (human gut, plant rhizosphere, in vitro communities).
+Through interpretable adaptive mechanisms, A²G² learns how different knowledge modalities contribute to modelling microbial community dynamics across diverse ecosystems (human gut, plant rhizosphere, in vitro communities).
  
 
 ## Installation
